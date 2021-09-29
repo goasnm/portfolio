@@ -1,32 +1,73 @@
-# Prerequisites
-*.d
+# =============== #
+ 
+# Unity generated #
+ 
+# =============== #
+ 
+Temp/
+ 
+Obj/
+ 
+UnityGenerated/
+ 
+Library/
+ 
+ 
+ 
+# ===================================== #
+ 
+# Visual Studio / MonoDevelop generated #
+ 
+# ===================================== #
+ 
+ExportedObj/
+ 
+*.svd
+ 
+*.userprefs
+ 
+*.csproj
+ 
+*.pidb
+ 
+*.suo
+ 
+*.sln
+ 
+*.user
+ 
+*.unityproj
+ 
+*.booproj
+ 
+ 
+ 
+# ============ #
+ 
+# OS generated #
+ 
+# ============ #
+ 
+.DS_Store
+ 
+.DS_Store?
+ 
+._*
+ 
+.Spotlight-V100
+ 
+.Trashes
+ 
+Icon?
+ 
+ehthumbs.db
+ 
+Thumbs.db
+ 
+GraphicsSettings.asset
+ 
+ProjectSettings.asset
+ 
+ProjectVersion.txt
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
